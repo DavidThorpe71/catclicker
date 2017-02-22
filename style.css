@@ -1,0 +1,32 @@
+
+#sidebar {
+	height: 100%;
+	background-color: rgb(129, 100, 98);
+	width: 20%;
+	position: absolute;
+}
+
+.eachCat {
+	margin: 10px;
+	border: 5px solid black;
+
+}
+
+p,
+li {
+	font-family: sans-serif;
+	margin: 10px;
+}
+
+img {
+	margin: 10px;
+	max-width: calc(100% - 20px);
+	max-height: 100%;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
